@@ -1,0 +1,9 @@
+Circuito 1 
+Vs n1 0 DC 10
+R1 n1 n2 1k 
+R2 n2 nprueba 2k 
+R3 n2 n3 6k 
+R4 n3 0 4k 
+Vprueba nprueba 0 DC 0 
+.end
+

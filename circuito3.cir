@@ -1,0 +1,19 @@
+Ejercicio 2 DC 
+
+I1 n1 n2 DC 1
+I2 n1 n5 DC 1
+V1 n6 n1 DC 10
+R1 n2 nv 90
+R2 n1 nv 10
+R3 nv n6 20
+R4 n6 0 20
+R5 0 n1 50
+R6 nv n4 80
+R7 0 n4 70
+R8 n4 n5 90
+rl nv 0 0.000001
+.end
+
+
+
+
