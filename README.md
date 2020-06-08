@@ -1,5 +1,5 @@
 # SPICE
 Examples of code:
 
-## Circuits folder made with ngspice 
-## CMOS_Inversor made with LTSPICE
+1. Circuits folder made with ngspice 
+2. CMOS_Inversor made with LTSPICE
